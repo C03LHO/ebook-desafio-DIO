@@ -1,3 +1,9 @@
+<p align="center">
+    <img width="100" src=".github/imagem/capa.png">
+</p>
+
+---
+
 # Projeto “Python 2099” Gerado por I.A.s
 
 ℹ️ **NOTE:** Este é o repositório do eBook “Python 2099”, um guia de TDD em Python ambientado num universo cyberpunk, todo gerado com o auxílio de I.A.s. Aqui você encontrará todos os prompts usados em cada etapa.
