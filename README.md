@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/imagem/capa.png">
+    <img width="100" src="/Imagens/Capa - ebook.png">
 </p>
 
 ---
