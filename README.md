@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="/Imagens/Capa - ebook.png">
+    <img width="500" src="/Imagens/Capa - ebook.png">
 </p>
 
 ---
